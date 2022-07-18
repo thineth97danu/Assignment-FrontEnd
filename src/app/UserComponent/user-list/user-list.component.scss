@@ -1,0 +1,32 @@
+.demo-table {
+  width:90%;
+  padding: 10px;
+}
+
+img{
+  clip-path: circle();
+  width: 22%;
+  padding: 1px;
+}
+
+.edit-icon {
+color: rgb(43, 64, 152);
+}
+
+.delete-icon {
+color: rgb(143, 52, 52);
+}
+
+
+element.style {
+width: 15%;
+}
+
+.mat-row.hovered {
+background: #eee;
+}
+
+.mat-row.highlighted {
+background: #eee;
+}
+
